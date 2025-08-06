@@ -23,6 +23,11 @@ Thumbs.db
 
 # Dependencies
 node_modules/
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
 
 # Databases
 *.db
